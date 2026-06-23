@@ -958,6 +958,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/giuliac/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
     vendor/oneplus/giuliac/proprietary/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
     vendor/oneplus/giuliac/proprietary/vendor/etc/ltm_config_AA577_P_3_A0020_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_AA577_P_3_A0020_dsc_cmd_mode_panel.xml \
+    vendor/oneplus/giuliac/proprietary/vendor/etc/mem_logger_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mem_logger_config.xml \
     vendor/oneplus/giuliac/proprietary/vendor/etc/oem_51_prj_OppoLTM8650_1689712162019.pfm:$(TARGET_COPY_OUT_VENDOR)/etc/oem_51_prj_OppoLTM8650_1689712162019.pfm \
     vendor/oneplus/giuliac/proprietary/vendor/etc/snapdragon_color_libs_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/snapdragon_color_libs_config.xml \
     vendor/oneplus/giuliac/proprietary/vendor/firmware/CAMERA_ICP.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.b00 \
